@@ -1,2 +1,2 @@
 # html_n_css
-html with css
+This project covers all the html5 elements.
